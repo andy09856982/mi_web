@@ -1,0 +1,4 @@
+este es un segundo archivo de mi practica de github
+modificacion del archivo2
+
+cambio para realizar un commit de un a manera diferente
